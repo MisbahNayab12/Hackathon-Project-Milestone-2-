@@ -25,9 +25,9 @@ form.addEventListener('submit', (event: Event)=> {
     <p><b> Gender:</b>${gender}</p>
 
     <h3><b>Education</b></h3>
-    <p>${qualification}</p>
-    <p>${grade}</p>
-    <p>${year}</p>
+    <p><b> Qualification:</b>${qualification}</p>
+    <p><b> Grade:</b>${grade}</p>
+    <p><b> Year:</b>${year}</p>
 
     <h3><b>Experience</b></h3>
     <p>${exp}</p>
